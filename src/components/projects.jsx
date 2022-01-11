@@ -59,6 +59,22 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						</a>
+						<a href="https://github.com/happyyqt/ContactKeeper" target="_blank" rel="noopener noreferrer">
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInBotton">
+								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3>ContactKeeper</h3>
+											<span>In Progress at present!</span>
+											<span>I am building an application for managing contacts. Frontend is based on React, and 
+												backend used Express framework and MongoDB. Unit Test and Docker will be added in the end.
+											</span>
+				
+										</div>
+									</div>
+								</div>
+							</div>
+						</a>
 						
 							{/* <div className="col-md-4 animate-box" data-animate-effect="fadeInBottom">
 								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>

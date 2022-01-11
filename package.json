@@ -2,15 +2,16 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "homepage": "https://happyyqt.github.io/royportfolio",
   "dependencies": {
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-router-dom": "^6.0.2",
     "react-scripts": "2.1.5",
     "travis": "^0.1.1",
-    "yarn": "^1.13.0"
+    "yarn": "^1.22.17"
   },
   "scripts": {
     "start": "react-scripts start",
