@@ -2,7 +2,6 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "type": "module",
   "homepage": "https://happyyqt.github.io/royportfolio",
   "dependencies": {
     "gh-pages": "^2.2.0",
