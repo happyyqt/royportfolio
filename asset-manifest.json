@@ -1,13 +1,13 @@
 {
-  "main.css": "/royportfolio/static/css/main.8d33a2f5.chunk.css",
-  "main.js": "/royportfolio/static/js/main.d77e5892.chunk.js",
-  "main.js.map": "/royportfolio/static/js/main.d77e5892.chunk.js.map",
+  "main.css": "/royportfolio/static/css/main.a84aff85.chunk.css",
+  "main.js": "/royportfolio/static/js/main.64c0a03c.chunk.js",
+  "main.js.map": "/royportfolio/static/js/main.64c0a03c.chunk.js.map",
   "runtime~main.js": "/royportfolio/static/js/runtime~main.9ce7b498.js",
   "runtime~main.js.map": "/royportfolio/static/js/runtime~main.9ce7b498.js.map",
   "static/js/2.5ec21d73.chunk.js": "/royportfolio/static/js/2.5ec21d73.chunk.js",
   "static/js/2.5ec21d73.chunk.js.map": "/royportfolio/static/js/2.5ec21d73.chunk.js.map",
   "index.html": "/royportfolio/index.html",
-  "precache-manifest.6a2730753ab087541f27d0e8333ad4fc.js": "/royportfolio/precache-manifest.6a2730753ab087541f27d0e8333ad4fc.js",
+  "precache-manifest.a05da27b8e0c2ac991df895a9eec4a13.js": "/royportfolio/precache-manifest.a05da27b8e0c2ac991df895a9eec4a13.js",
   "service-worker.js": "/royportfolio/service-worker.js",
-  "static/css/main.8d33a2f5.chunk.css.map": "/royportfolio/static/css/main.8d33a2f5.chunk.css.map"
+  "static/css/main.a84aff85.chunk.css.map": "/royportfolio/static/css/main.a84aff85.chunk.css.map"
 }
