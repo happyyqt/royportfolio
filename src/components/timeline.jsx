@@ -15,6 +15,21 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Developer at <a href = "https://www.i-sight.com/">i-Sight </a><span>03/2022-present</span></h2>
+                        <p>
+                          I participate in Full-stack JavaScript development of Case Management Systems with a Node.js background. 
+                          My daily work consists of adding customized features, importing user information via API integration, migrating data from the old platform to the upgraded platform etc.
+                          This is my first full-time job, which helps me become an efficient time manager and communicator.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
@@ -24,9 +39,9 @@ export default class Timeline extends Component {
                         <h2>Research Assistant at University of Ottawa <span>09/2019-08/2021</span></h2>
                         <p>
                            I worked in a group on the 'Digital Coaching' project led by Prof. El Saddik. 
-                           My main responsibility included: conducting the literature review, developing the methodology, 
-                           building Tensorflow-based machine learning models, improving the model's liability and accuracy,
-                           collecting data for our dataset, and adding the labels to the data manually. 
+                           My main responsibility included conducting the literature review, developing the methodology, 
+                           building Tensorflow-based machine learning models, and collecting data for our dataset. 
+                           I also participated in the full-stack design of the 'Digital Coaching' application which interacts with athletes and coaches.
                            The research experience improved my self-learning and problem-solving abilities. 
                         </p>
                       </div>

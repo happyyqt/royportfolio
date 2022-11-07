@@ -13,14 +13,15 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a recent graduate with a Electrical and Computer Engineering master's degree 
-                         from University of Ottawa, Canada. I am quite insterested in software development 
-                         and machine learning. 
+                    <p>
+                        I am currently a full-stack software developer at <a href = "https://www.i-sight.com/">i-Sight</a>. I have two years experience in software development and proficient in JavaScript, NodeJS and Python. 
                     </p>
                     <p>
-                        In my spare time, I enjoy participating in sports activities like basketball, badminton and table tennis. I am learning snowboarding this winter.
+                        I would describe my personality as approachable, light-hearted and positive. I am passionate about my work and learning new things.
                     </p>
-                    
+                    <p>
+                        In my spare time, I enjoy participating in all kinds of sports activities like badminton, tennis, and snowboarding. My favourite sport is basketball and I am a big fan of Chris Paul and Kobe Bryant.
+                    </p>
                     </div>
                 </div>
                 </div>
@@ -43,8 +44,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>Experienced in building websites using JavaScript,React,HTML,CSS developed through projects</p>
+                    <h3>Web Development</h3>
+                    <p>Experienced in building websites using JavaScript, NodeJS, React, HTML/CSS developed through projects.</p>
                 </div>
                 </div>
             </div>
