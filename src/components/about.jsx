@@ -44,8 +44,8 @@ export default class About extends Component {
                     <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Web Development</h3>
-                    <p>Experienced in building websites using JavaScript, NodeJS, React, HTML/CSS developed through projects.</p>
+                    <h3>Full Stack Web Development</h3>
+                    <p>Experienced in building websites using JavaScript, NodeJS, React developed through projects.</p>
                 </div>
                 </div>
             </div>
