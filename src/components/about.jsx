@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                        I am currently a full-stack software developer at <a href = "https://www.i-sight.com/">i-Sight</a>. I have two years experience in software development and proficient in JavaScript, NodeJS and Python. 
+                        I was a full-stack software developer at <a href = "https://www.i-sight.com/">i-Sight</a>. I have two years experience in software development and proficient in JavaScript, NodeJS and Python. 
                     </p>
                     <p>
                         I would describe my personality as approachable, light-hearted and positive. I am passionate about my work and learning new things.
