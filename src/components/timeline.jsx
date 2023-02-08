@@ -21,11 +21,11 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer at <a href = "https://www.i-sight.com/">i-Sight </a><span>03/2022-present</span></h2>
+                        <h2>Software Developer at <a href = "https://www.i-sight.com/">i-Sight </a><span>03/2022-01/2023 (11 months)</span></h2>
                         <p>
-                          I participate in Full-stack JavaScript development of Case Management Systems with a Node.js background. 
-                          My daily work consists of adding customized features, importing user information via API integration, migrating data from the old platform to the upgraded platform etc.
-                          This is my first full-time job, which helps me become an efficient time manager and communicator.
+                        In my previous position at i-Sight, I developed and maintained web applications utilizing HTML, CSS, JavaScript, and PostgreSQL. 
+                        I honed my front-end skills by adding custom UI elements, creating dynamic interfaces, and integrating with RESTful APIs. 
+                        In the aspect of backend, I was involved in data integration, which required me to design APIs to fetch data from external platforms. Additionally, I collaborated with the team in implementing business logic to meet clients' needs.
                         </p>
                       </div>
                     </div>
@@ -41,8 +41,11 @@ export default class Timeline extends Component {
                            I worked in a group on the 'Digital Coaching' project led by Prof. El Saddik. 
                            My main responsibility included conducting the literature review, developing the methodology, 
                            building Tensorflow-based machine learning models, and collecting data for our dataset. 
-                           I also participated in the full-stack design of the 'Digital Coaching' application which interacts with athletes and coaches.
-                           The research experience improved my self-learning and problem-solving abilities. 
+                        </p>
+                        <p>
+                           I also developed and maintained a coaching platform that streamlines communication between sports coaches and users. 
+                           To ensure a seamless user experience, I utilized React and Context API on the frontend, and employed NodeJS and Express framework for the backend implementation. 
+                           The app received positive feedback from users. Both the research and developing experience improved my self-learning and problem-solving abilities. 
                         </p>
                       </div>
                     </div>
@@ -59,21 +62,6 @@ export default class Timeline extends Component {
                            giving lab demonstrations, tutoring students with course projects and marking exams. This
                            experience developed my communication skills and conflict-resolution abilities.
                         </p>
-                      </div>
-                    </div>
-                  </article>
-                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>Part-time Bell Authorized Agent <span>05/2019-05/2020</span></h2>
-                        <p>
-                            As a Bell agent, I took initiative to meet with customers, identify their needs and
-                            come up with suitable plans. It's a great oppotunity to meet with different people and
-                            help customers.
-                        </p> 
                       </div>
                     </div>
                   </article>

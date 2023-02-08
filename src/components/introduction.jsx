@@ -30,7 +30,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner">
                         <div className="desc">
                           <h1>I love learning new<br /> THINGS !!</h1>
-                          <p><a className="btn btn-primary btn-learn" href="#projects" style={{fontWeight:'bolder', color:'red',}}>View Projects</a></p>
+                          <p><a className="btn btn-primary btn-learn" href="#projects" style={{fontWeight:'bolder', color:'red', fontSize: '18px'}}>View Projects</a></p>
                         </div>
                       </div>
                     </div>

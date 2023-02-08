@@ -14,13 +14,13 @@ export default class About extends Component {
                     <span className="heading-meta">About me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>
-                        I was a full-stack software developer at <a href = "https://www.i-sight.com/">i-Sight</a>. I have two years experience in software development and proficient in JavaScript, NodeJS and Python. 
+                    I am a highly skilled software developer with 2 years of experience in developing and implementing software solutions using JavaScript, React, Node.js, Python, and SQL.
+                    As a full-stack developer at <a href = "https://www.i-sight.com/">i-Sight</a>, I successfully contributed to the development of a case management system. 
+                    Additionally, I hold a Master's degree in Electrical and Computer Engineering from the <a href = 'https://www.uottawa.ca/en'>University of Ottawa</a> and have published two research papers in the field of machine learning. During my time at the university, I also worked as a research assistant in the <a href = 'https://mcrlab.net/'>MCRlab</a>, gaining valuable experience and expertise.
                     </p>
                     <p>
-                        I would describe my personality as approachable, light-hearted and positive. I am passionate about my work and learning new things.
-                    </p>
-                    <p>
-                        In my spare time, I enjoy participating in all kinds of sports activities like badminton, tennis, and snowboarding. My favourite sport is basketball and I am a big fan of Chris Paul and Kobe Bryant.
+                        I would describe my personality as approachable, light-hearted and positive. I am passionate about my work and learning new things. In my spare time, I enjoy participating in all kinds of sports activities like badminton, tennis, and snowboarding. 
+                        My favourite sport is basketball and I am a big fan of Chris Paul and Kobe Bryant.
                     </p>
                     </div>
                 </div>
@@ -45,18 +45,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Full Stack Web Development</h3>
-                    <p>Experienced in building websites using JavaScript, NodeJS, React developed through projects.</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Computer Vision & Deep Learning</h3>
-                    <p>As a research-based master student, I have two publications regarding Deep Learning.</p>
+                    <p>Experienced in tools like React, JavaScript, NodeJS, Redux, Python, SQL, HTML/CSS and Restful API</p>
                 </div>
                 </div>
             </div>
@@ -71,41 +60,17 @@ export default class About extends Component {
                 </div>
                 </div>
             </div>
-            {/*
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
+                <div className="services color-3">
                 <span className="icon">
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
+                    <h3>Strong Research Abilities &nbsp; &nbsp; &nbsp; &nbsp;</h3>
+                    <p>Master of Applied Science with two research papers in Machine Learning field. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
                 </div>
                 </div>
             </div>
-            */}
             </div>
         </div>
         </section>

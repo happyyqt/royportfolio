@@ -9,7 +9,7 @@ export default class Projects extends Component {
 						<div className="row">
 							<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 								<span className="heading-meta">My Work</span>
-								<h2 className="colorlib-heading animate-box">Recent Projects</h2>
+								<h2 className="colorlib-heading animate-box">Projects</h2>
 							</div>
 						</div>
 						<div className="row">
@@ -27,7 +27,7 @@ export default class Projects extends Component {
 								</div>
 							</div>
 						</a>
-						<a href="https://salty-fortress-74552.herokuapp.com" target="_blank" rel="noopener noreferrer">
+						<a href="https://github.com/happyyqt/RoyCamp" target="_blank" rel="noopener noreferrer">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 								<div className="project" style={{backgroundImage: 'url(images/camp1.jpg)'}}>
 									<div className="desc">
@@ -61,15 +61,28 @@ export default class Projects extends Component {
 						</a>
 						<a href="https://github.com/happyyqt/ContactKeeper" target="_blank" rel="noopener noreferrer">
 							<div className="col-md-4 animate-box" data-animate-effect="fadeInBotton">
-								<div className="project" style={{backgroundImage: 'url(images/img-4.jpg)'}}>
+								<div className="project" style={{backgroundImage: 'url(images/contact2.jpg)'}}>
 									<div className="desc">
 										<div className="con">
-											<h3>ContactKeeper</h3>
-											<span>In Progress at present!</span>
-											<span>I am building an application for managing contacts. Frontend is based on React, and 
-												backend used Express framework and MongoDB. Unit Test and Docker will be added in the end.
+											<h3>Contact Keeper</h3>
+											<span>This is a React Application for managing contacts. The frontend is based on React and Context API, and the
+												backend utilized Node.js, Express framework and MongoDB. Moreover, Json web token is applied for user authentication and authorization.
 											</span>
-				
+										</div>
+									</div>
+								</div>
+							</div>
+						</a>
+
+						<a href="https://github.com/happyyqt/it-logger" target="_blank" rel="noopener noreferrer">
+							<div className="col-md-4 animate-box" data-animate-effect="fadeInBotton">
+								<div className="project" style={{backgroundImage: 'url(images/itlogger1.jpg)'}}>
+									<div className="desc">
+										<div className="con">
+											<h3>IT-Logger</h3>
+											<span>This is a React Application for tracking IT department logs and managing technicians. It uses JSON-Server as a mock backend. 
+												In the frontend, I applied Materialize CSS framework for UI and utilized Redux to manage the app's state.
+											</span>
 										</div>
 									</div>
 								</div>
