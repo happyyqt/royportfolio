@@ -15,15 +15,32 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Software Developer at <a href = "https://www.axonify.com/">Axonify </a><span>04/2023-present</span></h2>
+                        <p>
+                        In my current role, I have developed and enhanced several key software components to improve functionality and user engagement.
+                        I engineered reusable React components, including user-search dialogs and profile cards, which have been integrated across multiple teams to streamline development processes.
+                        My work on the Flex-Admin project involved creating an interactive administration page that significantly boosted user interaction, evidenced by over one million clicks within the first three months.
+                        Additionally, I've played a pivotal role in redesigning MUI components to align with customized styles and in troubleshooting critical issues to enhance platform stability.
+                        My technical contributions are further supported by rigorous end-to-end testing and platform monitoring using tools like Jest and Datadog, ensuring robust system performance and reliability.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Software Developer at <a href = "https://www.i-sight.com/">i-Sight </a><span>03/2022-01/2023 (11 months)</span></h2>
+                        <h2>Software Developer at <a href = "https://www.caseiq.com/">Case IQ </a><span>03/2022-01/2023 (11 months)</span></h2>
                         <p>
-                        In my previous position at i-Sight, I developed and maintained web applications utilizing HTML, CSS, JavaScript, and PostgreSQL. 
+                        In my previous position at Case IQ, I developed and maintained web applications utilizing HTML, CSS, JavaScript, and PostgreSQL. 
                         I honed my front-end skills by adding custom UI elements, creating dynamic interfaces, and integrating with RESTful APIs. 
                         In the aspect of backend, I was involved in data integration, which required me to design APIs to fetch data from external platforms. Additionally, I collaborated with the team in implementing business logic to meet clients' needs.
                         </p>
